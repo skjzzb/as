@@ -35,7 +35,7 @@ git add -A
 
 git commit -m "Second Update"
 
-get diff
+git diff
 
 git push origin [master/branch name]
 
