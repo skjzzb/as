@@ -1,5 +1,14 @@
 # as
-
+firebaseConfig = {
+  apiKey: "AIzaSyDSA2bt010RfWMj4A5tJhND_trPY9DLOrQ",
+  authDomain: "demodd-928e1.firebaseapp.com",
+  databaseURL: "https://demodd-928e1.firebaseio.com",
+  projectId: "demodd-928e1",
+  storageBucket: "demodd-928e1.appspot.com",
+  messagingSenderId: "481416529650",
+  appId: "1:481416529650:web:360ef91d95c081e23db26b",
+  measurementId: "G-4BKY52Z3WG"
+}
 -------
 Setup
 -------
